@@ -3,7 +3,7 @@ export const MuiInputLabel = {
     root: {
       fontStyle: "normal",
       fontWeight: 400,
-      fontSize: 16,
+      fontSize: 14,
       color: "#525B78",
     },
   },
